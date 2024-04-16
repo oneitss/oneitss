@@ -19,4 +19,4 @@
 ![Postgres](https://shields.io/badge/postgres-090909?style=for-the-badge&logo=postgresql&logoColor=white)
 
 > ## Statistics
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oneitss&theme=tokyonight)
+![Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=oneitss&layout=compact&theme=merko)
