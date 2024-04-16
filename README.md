@@ -19,5 +19,4 @@
 ![Postgres](https://shields.io/badge/postgres-090909?style=for-the-badge&logo=postgresql&logoColor=white)
 
 > ## Statistics
-[![Top Langs](https://github-readme-stats.vercel.app/api?username=oneitss&theme=algolia&show_icons=true)](https://github.com/oneitss)
-[![Mohammad Saifur Rahman's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=oneitss&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=algolia&show_icons=true)](https://github.com/oneitss)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=oneitss)](https://github.com/oneitss/github-readme-stats)
