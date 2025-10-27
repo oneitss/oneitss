@@ -30,7 +30,7 @@
     }
   ```
 
-  ## 🌿 My projects
+  ## 🌿 My Projects
   - [Niako](https://niako.life/) — is a highly customizable, multifunctional bot that has private rooms, action logging, music, and the icing on the cake is a personal banner based on your server statistics.
 
   ## 🎮 Featured Project: Niako Bot
