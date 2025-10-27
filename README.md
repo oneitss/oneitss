@@ -15,19 +15,7 @@
 </div>
 
 <div align='center'>
-  <img src='https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&animation=twinkling&fontAlignY=35&text=Welcome%20to%20my%20Digital%20World&fontSize=30&fontColor=ffffff' width='100%' />
-</div>
-
-<div align='center'>
-  
-  ## Welcome to my profile 👋
-
-  <a href='https://oneits.space/'>
-    <img
-      src='https://lanyard.cnrad.dev/api/947586139911491635?bg=121613&showDisplayName=true&hideStatus=true&borderRadius=8px'
-      style='width: 60%; height: auto; border-radius: 8px;'
-    />
-  </a>
+  <img src='https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&animation=twinkling&fontAlignY=35&text=Welcome%20To%20My%20Profile&fontSize=30&fontColor=ffffff' width='100%' />
 </div>
 
 <div align='center'>
