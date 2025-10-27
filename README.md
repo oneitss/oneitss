@@ -1,36 +1,36 @@
-<div align="center">
+<div align='center'>
 
   # ⚡ Its | Developer
 
-  <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00FFB3&center=true&vCenter=true&width=435&lines=Developer;Always+learning+new+things" alt="Typing SVG" />
+  <p align='center'>
+    <img src='https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00FFB3&center=true&vCenter=true&width=435&lines=Developer;Always+learning+new+things' alt='Typing SVG' />
   </p>
  
-  <a href="https://github.com/oneitss">
-    <img src="https://komarev.com/ghpvc/?username=oneitss&style=for-the-badge&color=00FFB3" alt="Profile views" />
+  <a href='https://github.com/oneitss'>
+    <img src='https://komarev.com/ghpvc/?username=oneitss&style=for-the-badge&color=00FFB3' alt='Profile views' />
   </a>
-  <a href="https://discord.com/users/947586139911491635">
-    <img src="https://img.shields.io/badge/Discord-oneits-00FFB3?style=for-the-badge&logo=discord" />
+  <a href='https://discord.com/users/947586139911491635'>
+    <img src='https://img.shields.io/badge/Discord-oneits-00FFB3?style=for-the-badge&logo=discord' />
   </a>
 </div>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&animation=twinkling&fontAlignY=35&text=Welcome%20to%20my%20Digital%20World&fontSize=30&fontColor=ffffff" width="100%" />
+<div align='center'>
+  <img src='https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&animation=twinkling&fontAlignY=35&text=Welcome%20to%20my%20Digital%20World&fontSize=30&fontColor=ffffff' width='100%' />
 </div>
 
-<div align="center">
+<div align='center'>
   
   ## Welcome to my profile 👋
 
-  <a href="https://oneits.space/">
+  <a href='https://oneits.space/'>
     <img
-      src="https://lanyard.cnrad.dev/api/947586139911491635?bg=121613&showDisplayName=true&hideStatus=true&borderRadius=8px"
-      style="width: 60%; height: auto; border-radius: 8px;"
+      src='https://lanyard.cnrad.dev/api/947586139911491635?bg=121613&showDisplayName=true&hideStatus=true&borderRadius=8px'
+      style='width: 60%; height: auto; border-radius: 8px;'
     />
   </a>
 </div>
 
-<div align="center">
+<div align='center'>
   
   ## 🌌 About Me
   
@@ -49,11 +49,11 @@
 
   <table>
     <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Interactive-Games-00FFB3?style=flat-square&logo=unity" />
+      <td align='center'>
+        <img src='https://img.shields.io/badge/Interactive-Games-00FFB3?style=flat-square&logo=unity' />
       </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Social-Features-00FFB3?style=flat-square&logo=discord" />
+      <td align='center'>
+        <img src='https://img.shields.io/badge/Social-Features-00FFB3?style=flat-square&logo=discord' />
       </td>
     </tr>
   </table>
@@ -67,7 +67,7 @@
             social: [ '🎵 Music Rooms', '❤️ Private Rooms' ],
             special: [ '📈 User Analytics', '🖼️ Guilds Banner Analytics' ]
         },
-        status: "Actively Developing"
+        status: 'Actively Developing'
     }
   ```
 
@@ -91,11 +91,11 @@
   
   ## 📈 Statistics
   
-  <a href="https://github.com/oneitss">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=oneitss&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFB3&icon_color=00FFB3&text_color=ffffff" />
+  <a href='https://github.com/oneitss'>
+    <img width='48%' src='https://github-readme-stats.vercel.app/api?username=oneitss&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFB3&icon_color=00FFB3&text_color=ffffff' />
   </a>
-  <a href="https://github.com/oneitss">
-    <img width="50.9%" src="https://github-readme-streak-stats.herokuapp.com/?user=oneitss&theme=tokyonight&hide_border=true&background=0D1117&ring=00FFB3&fire=00FFB3&currStreakLabel=00FFB3" />
+  <a href='https://github.com/oneitss'>
+    <img width='50.9%' src='https://github-readme-streak-stats.herokuapp.com/?user=oneitss&theme=tokyonight&hide_border=true&background=0D1117&ring=00FFB3&fire=00FFB3&currStreakLabel=00FFB3' />
   </a>
   <br/>
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oneitss&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFB3&text_color=ffffff" />
+  <img width='100%' src='https://github-readme-stats.vercel.app/api/top-langs/?username=oneitss&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFB3&text_color=ffffff' />
