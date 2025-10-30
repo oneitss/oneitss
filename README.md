@@ -83,7 +83,7 @@
     <img width='100%' src='https://github-readme-stats.vercel.app/api?username=oneitss&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFB3&icon_color=00FFB3&text_color=ffffff' />
   </a>
   <a href='https://github.com/oneitss'>
-    <img width='100%' src='https://github-readme-streak-stats.herokuapp.com/?user=oneitss&theme=tokyonight&hide_border=true&background=0D1117&ring=00FFB3&fire=00FFB3&currStreakLabel=00FFB3' />
+    <img width='100%' src='https://github-readme-activity-graph.vercel.app/graph?username=oneitss&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00FFB3&line=00FFB3&point=ffffff' />
   </a>
   <br/>
   <img width='100%' src='https://github-readme-stats.vercel.app/api/top-langs/?username=oneitss&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFB3&text_color=ffffff' />
